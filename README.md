@@ -2,7 +2,7 @@
 # Antes de rodar
 Garantir o acesso a AWS configurando via variável de ambiente, credential profile ou role. O script ```configure.sh``` vai checar o acesso rodando um ```aws eks list```
 
-# Instalação UBUNTU
+# Instalação
 ```
 git clone https://github.com/AlexsanderAR/aws_eks.git
 cd aws_eks
